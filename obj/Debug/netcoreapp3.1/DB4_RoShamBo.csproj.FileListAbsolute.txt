@@ -1,0 +1,13 @@
+C:\devbuild4\DB4_RoShamBo\bin\Debug\netcoreapp3.1\DB4_RoShamBo.exe
+C:\devbuild4\DB4_RoShamBo\bin\Debug\netcoreapp3.1\DB4_RoShamBo.deps.json
+C:\devbuild4\DB4_RoShamBo\bin\Debug\netcoreapp3.1\DB4_RoShamBo.runtimeconfig.json
+C:\devbuild4\DB4_RoShamBo\bin\Debug\netcoreapp3.1\DB4_RoShamBo.runtimeconfig.dev.json
+C:\devbuild4\DB4_RoShamBo\bin\Debug\netcoreapp3.1\DB4_RoShamBo.dll
+C:\devbuild4\DB4_RoShamBo\bin\Debug\netcoreapp3.1\DB4_RoShamBo.pdb
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.csprojAssemblyReference.cache
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.AssemblyInfoInputs.cache
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.AssemblyInfo.cs
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.csproj.CoreCompileInputs.cache
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.dll
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.pdb
+C:\devbuild4\DB4_RoShamBo\obj\Debug\netcoreapp3.1\DB4_RoShamBo.genruntimeconfig.cache
